@@ -17,4 +17,7 @@ question bank 8 - displays and cables
 <img width="941" height="359" alt="image" src="https://github.com/user-attachments/assets/62c3e754-ee7d-455b-89da-0625d1dc6e81" />
 
 question bank 9 - cables 
+<img width="953" height="372" alt="image" src="https://github.com/user-attachments/assets/530b504c-1048-4d64-953a-4694cb853a94" />
+
+question bank 10 - memory
 ![Uploading image.png…]()
