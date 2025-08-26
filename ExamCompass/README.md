@@ -14,4 +14,7 @@ question bank 7 - internet connectivity
 <img width="943" height="371" alt="image" src="https://github.com/user-attachments/assets/3dd60eb5-7046-4863-a47e-2ae51977aed6" />
 
 question bank 8 - displays and cables
+<img width="941" height="359" alt="image" src="https://github.com/user-attachments/assets/62c3e754-ee7d-455b-89da-0625d1dc6e81" />
+
+question bank 9 - cables 
 ![Uploading image.png…]()
