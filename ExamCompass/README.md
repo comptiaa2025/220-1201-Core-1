@@ -3,3 +3,6 @@ question bank 3 - networking
 
 question bank 4 - mix
 <img width="956" height="383" alt="image" src="https://github.com/user-attachments/assets/b38d9956-8b21-4821-81ee-f811741e6725" />
+
+question bank 5 - networking
+<img width="968" height="386" alt="image" src="https://github.com/user-attachments/assets/5b00f18c-f696-452b-ab33-842fc16cad1a" />
