@@ -11,4 +11,7 @@ question bank 6 - ip addresses
 <img width="928" height="364" alt="image" src="https://github.com/user-attachments/assets/35820db5-1dd6-4080-b650-54777660b5e7" />
 
 question bank 7 - internet connectivity
+<img width="943" height="371" alt="image" src="https://github.com/user-attachments/assets/3dd60eb5-7046-4863-a47e-2ae51977aed6" />
+
+question bank 8 - displays and cables
 ![Uploading image.png…]()
