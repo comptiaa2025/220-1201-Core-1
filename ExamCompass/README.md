@@ -20,7 +20,11 @@ question bank 9 - cables
 <img width="953" height="372" alt="image" src="https://github.com/user-attachments/assets/530b504c-1048-4d64-953a-4694cb853a94" />
 
 question bank 10 - memory
-![Uploading image.png…]()
+<img width="946" height="357" alt="image" src="https://github.com/user-attachments/assets/eed6c44f-6bef-4e93-9b4e-f629462985e3" />
 
 question bank 11 - RAM
 ![Uploading image.png…]()
+
+question bank 12 - memory storage
+![Uploading image.png…]()
+
