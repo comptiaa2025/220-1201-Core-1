@@ -6,3 +6,8 @@ question bank 4 - mix
 
 question bank 5 - networking
 <img width="968" height="386" alt="image" src="https://github.com/user-attachments/assets/5b00f18c-f696-452b-ab33-842fc16cad1a" />
+
+question bank 6 - ip addresses
+![Uploading image.png…]()
+
+
