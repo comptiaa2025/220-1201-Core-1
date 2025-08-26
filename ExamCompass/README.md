@@ -29,8 +29,12 @@ question bank 12 - memory storage
 <img width="941" height="358" alt="image" src="https://github.com/user-attachments/assets/fad018e5-dac7-4caf-b04a-006998b90042" />
 
 question bank 13 - power
-![Uploading image.png…]()
+<img width="949" height="395" alt="image" src="https://github.com/user-attachments/assets/848b1d33-9193-405c-864e-39da22240eef" />
 
 question bank 14 - printing
 ![Uploading image.png…]()
+![Uploading image.png…]()
+
+question bank 15 = 
+
 
