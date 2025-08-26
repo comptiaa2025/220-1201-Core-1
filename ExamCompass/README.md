@@ -8,6 +8,7 @@ question bank 5 - networking
 <img width="968" height="386" alt="image" src="https://github.com/user-attachments/assets/5b00f18c-f696-452b-ab33-842fc16cad1a" />
 
 question bank 6 - ip addresses
+<img width="928" height="364" alt="image" src="https://github.com/user-attachments/assets/35820db5-1dd6-4080-b650-54777660b5e7" />
+
+question bank 7 - internet connectivity
 ![Uploading image.png…]()
-
-
