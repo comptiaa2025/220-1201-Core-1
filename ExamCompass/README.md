@@ -32,8 +32,7 @@ question bank 13 - power
 <img width="949" height="395" alt="image" src="https://github.com/user-attachments/assets/848b1d33-9193-405c-864e-39da22240eef" />
 
 question bank 14 - printing
-![Uploading image.png…]()
-![Uploading image.png…]()
+<img width="949" height="395" alt="image" src="https://github.com/user-attachments/assets/2c8686ac-01b4-4207-acda-226498582b38" />
 
 question bank 15 = 
 
