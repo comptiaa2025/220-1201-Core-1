@@ -21,3 +21,6 @@ question bank 9 - cables
 
 question bank 10 - memory
 ![Uploading image.png…]()
+
+question bank 11 - RAM
+![Uploading image.png…]()
