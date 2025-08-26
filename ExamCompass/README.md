@@ -23,8 +23,11 @@ question bank 10 - memory
 <img width="946" height="357" alt="image" src="https://github.com/user-attachments/assets/eed6c44f-6bef-4e93-9b4e-f629462985e3" />
 
 question bank 11 - RAM
-![Uploading image.png…]()
+<img width="937" height="375" alt="image" src="https://github.com/user-attachments/assets/8738855f-09f4-44bc-b903-f7624b83fa42" />
 
 question bank 12 - memory storage
+![Uploading image.png…]()
+
+question bank 13 - power
 ![Uploading image.png…]()
 
