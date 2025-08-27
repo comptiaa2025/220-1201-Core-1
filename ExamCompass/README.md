@@ -35,5 +35,6 @@ question bank 14 - printing
 <img width="949" height="395" alt="image" src="https://github.com/user-attachments/assets/2c8686ac-01b4-4207-acda-226498582b38" />
 
 question bank 15 = 
+<img width="933" height="373" alt="image" src="https://github.com/user-attachments/assets/a9186ef0-e22d-43bf-8a5d-5b46c95ac025" />
 
 
