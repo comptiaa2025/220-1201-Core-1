@@ -51,3 +51,8 @@ question bank 19 - displays
 
 question bank 20 - mobile 
 <img width="939" height="381" alt="image" src="https://github.com/user-attachments/assets/a0f70774-9665-477f-9f21-61ce2e86b94b" />
+
+question bank 21 - networking
+<img width="947" height="389" alt="image" src="https://github.com/user-attachments/assets/4ac57e9c-e1d5-42f8-973d-9ad9e1d81add" />
+
+question bank 22 - printers
