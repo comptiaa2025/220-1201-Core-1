@@ -43,3 +43,6 @@ question bank 16 - virtualization and cloud
 question bank 17 - cloud and pc troubleshooting
 <img width="932" height="373" alt="image" src="https://github.com/user-attachments/assets/49e89b13-5e5c-4142-be0d-bd491b2344ce" />
 
+question bank 18 - troubleshooting drives/raid
+<img width="954" height="371" alt="image" src="https://github.com/user-attachments/assets/098c06a8-c6db-44d6-a4f2-27c43d6ffba6" />
+
