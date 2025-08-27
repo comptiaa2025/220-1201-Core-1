@@ -40,3 +40,6 @@ question bank 15 =
 question bank 16 - virtualization and cloud
 <img width="942" height="380" alt="image" src="https://github.com/user-attachments/assets/b80ad447-00b9-4287-a29c-80df3be77f0e" />
 
+question bank 17 - cloud and pc troubleshooting
+<img width="932" height="373" alt="image" src="https://github.com/user-attachments/assets/49e89b13-5e5c-4142-be0d-bd491b2344ce" />
+
