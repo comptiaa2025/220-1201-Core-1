@@ -46,3 +46,6 @@ question bank 17 - cloud and pc troubleshooting
 question bank 18 - troubleshooting drives/raid
 <img width="954" height="371" alt="image" src="https://github.com/user-attachments/assets/098c06a8-c6db-44d6-a4f2-27c43d6ffba6" />
 
+question bank 19 - displayrs
+<img width="966" height="356" alt="image" src="https://github.com/user-attachments/assets/1b12b5b7-81ec-4226-b58d-6afb071edd7b" />
+
