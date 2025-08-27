@@ -37,4 +37,6 @@ question bank 14 - printing
 question bank 15 = 
 <img width="933" height="373" alt="image" src="https://github.com/user-attachments/assets/a9186ef0-e22d-43bf-8a5d-5b46c95ac025" />
 
+question bank 16 - virtualization and cloud
+<img width="942" height="380" alt="image" src="https://github.com/user-attachments/assets/b80ad447-00b9-4287-a29c-80df3be77f0e" />
 
