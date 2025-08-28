@@ -56,3 +56,5 @@ question bank 21 - networking
 <img width="947" height="389" alt="image" src="https://github.com/user-attachments/assets/4ac57e9c-e1d5-42f8-973d-9ad9e1d81add" />
 
 question bank 22 - printers
+<img width="967" height="392" alt="image" src="https://github.com/user-attachments/assets/4bc90f7d-efed-4f81-b04f-7c5eefd3f107" />
+
